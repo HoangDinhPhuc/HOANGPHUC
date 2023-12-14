@@ -8,5 +8,6 @@ namespace bai4.models
 {
     internal class user
     {
+        public int ID {  get; set; }    
     }
 }

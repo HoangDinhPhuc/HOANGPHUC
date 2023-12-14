@@ -8,5 +8,6 @@ namespace bai4.models
 {
     internal class user
     {
+        public int MSSV { get; set; }   
     }
 }
